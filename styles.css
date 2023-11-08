@@ -1,0 +1,55 @@
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: aqua;
+}
+p{
+    color: orangered;
+    background-color: black;
+}
+h1{
+    background-color: brown;
+    color: blanchedalmond;;
+}
+#iphone{
+    color:chartreuse;
+    background-color: blue;
+}
+.qwerty{
+    color:darkmagenta;
+    background-color: peru;
+}
+*{
+    font-weight: bold;
+}
+
+div{
+    background-color: yellow;
+    font-family: cursive;
+}
+
+#box{
+    background-color: blue;
+    
+}
+
+#win{
+    background-color: white;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+}
+
+#won{
+    background-color: green;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+
+}
+
+#ind{
+    background-color: orange;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+}

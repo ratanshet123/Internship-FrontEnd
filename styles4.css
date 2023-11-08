@@ -1,0 +1,44 @@
+li{
+    display: inline;
+    padding-inline: 20px;
+}
+header{
+    background-color: rgb(3, 3, 53);
+    color:aliceblue;
+    padding: 3px;
+}
+a{
+    color:white;
+    text-decoration: none;
+    font-size: large;
+}
+
+  input{
+    padding: 5px;
+  }
+  #b1{
+    background-color: orange;
+  }
+  #header1{
+    background-color: orange;
+    color:white;
+    font-size: x-large;
+    font-weight: bolder;
+    font-family: cursive;
+  }
+  img{
+    width: 5%;
+    height: 20px;
+    padding-top: 5px;
+  }
+  #img1{
+    width: 100px;
+    height: 30px;
+  }
+  #divin{
+   font-size: x-large;
+   font-family: cursive;
+   font-weight: bolder;
+  }
+
+  

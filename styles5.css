@@ -1,0 +1,39 @@
+#div0{
+    
+    background-image: url(amazon.jpeg);
+    background-size: contain;
+    position: fixed;
+    background-repeat: no-repeat;
+    
+}
+#div1{
+    background-color: aqua;
+   
+}
+#div2{
+    background-image: url(bat.jpg);
+    background-size: contain;
+    
+
+}
+#div3{
+    background-image: url(bat.jpg);
+    background-size: cover;
+    
+}
+#div4{
+    background-color: blue;
+    position: sticky;
+   top: 250px;
+}
+div{
+    display:block;
+    height: 250px;
+    width: 250px;
+    
+}
+.para{
+    background-color: black;
+    color: aliceblue;
+    border: solid red  5px;  
+}

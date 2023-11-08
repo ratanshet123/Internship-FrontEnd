@@ -1,0 +1,29 @@
+#div1{
+    background-color: rgb(239, 137, 12);
+}
+#div2{
+    background-color: rgb(252, 255, 255);
+}
+#div3{
+    background-color:rgb(4, 124, 24);
+}
+div{
+    height: 50px;
+    width: 80px;
+    border: solid black 3px;
+    display: inline;
+}
+#container{
+    display: flex;
+    flex-direction: row;
+    height: auto;
+    width: auto;
+    justify-content:center;
+}
+#div4{
+    background-color: blue;
+    padding: 5px;
+    position: relative;
+    top: 18px;
+    left: 15px;
+}

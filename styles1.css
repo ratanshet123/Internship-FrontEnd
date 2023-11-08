@@ -1,0 +1,39 @@
+h1{
+    text-decoration: underline wavy red;
+    text-align: center;
+    font-family: cursive;
+    background-color: aqua;
+
+}
+body{
+    background-color: bisque;
+}
+ol{
+    text-transform: capitalize;
+    text-decoration: solid underline blue;
+    text-shadow: 0cm;
+}
+div{
+    background-color: lightgrey;
+    width: 50%;
+    border: 30px solid green;
+    padding: 30px;
+    margin: 20px;
+    border-radius: 20px;
+}
+#pen{
+    background-color: rgb(230, 114, 13);
+    width: 50%;
+    height: 25%;
+    border: 30px solid rgb(15, 16, 15);
+    padding: 30px;
+    margin: 20px;
+    text-align: justify;
+}
+#end{
+    border:blue 30px solid ;
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+    text-align: justify;
+}
